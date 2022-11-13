@@ -18,7 +18,7 @@
   <img align="center" alt="Vini-Mongo" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
   <img align="center" alt="Vini-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
- ## --------------------------------------------- About Me -----------------------------------------------
+ ## ------------------------------------------- About Me --------------------------------------------
   
 My name is Vinícius Medeiros and I am 19 years old.
 
