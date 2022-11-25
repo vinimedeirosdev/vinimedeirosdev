@@ -32,6 +32,8 @@ I am a very studious and focused person! Technology has always been my biggest p
 <li>HTML</li>
 <li>CSS</li>
 <li> JavaScript</li>
+<li> PHP</li>  
+<li> SQL</li>
 <li> Firebase</li>
 <li> jquery</li>
 <li> Bootstrat</li>
@@ -44,8 +46,6 @@ I am a very studious and focused person! Technology has always been my biggest p
 And studying: 📚
 
 <li> React</li>
-<li> PHP</li>
-<li> SQL</li>
 <li> Python</li>
 <hr>
   
