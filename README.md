@@ -41,7 +41,7 @@ I am a very studious and focused person! Technology has always been my biggest p
 I've been working with computers since I was 16, so I have plenty of experience in how to act in a work environment.
 
 You can contact me via email or connect here 😁:
-EMAIL -> 📩 vinistrife.programador@gmail.com
+EMAIL -> 📩 viniciusmedeiros779@gmail.com
  
   
   
@@ -49,7 +49,7 @@ EMAIL -> 📩 vinistrife.programador@gmail.com
  
 <div> 
   <a href="https://instagram.com/vini.strife" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vinistrife.programador@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:viniciusmedeiros779@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-medeiros-360260224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
