@@ -10,7 +10,7 @@
   
 My name is Vinícius Medeiros and I am 19 years old.
 
-Starting now in the programming career with more than 1 year of experience in the Full Stack area, I'm looking for my first job in this sector to gain more proficiency, everything has a beginning, doesn't it?
+I have more than 1 year of experience in the Full-Stack area with more aptitude in the Front-End and at the moment I am studying "System Analysis" at Faculdade Senac - Brasília (DF).
  
 I am a very studious and focused person! Technology has always been my biggest passion ❤
 <br>
