@@ -1,9 +1,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/ViniStrife">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniStrife&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniStrife&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/vinimedeirosdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinimedeirosdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimedeirosdev&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
  ## ------------------------------------------- About Me --------------------------------------------
