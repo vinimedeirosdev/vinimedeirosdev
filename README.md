@@ -10,7 +10,7 @@
   
 My name is Vinícius Medeiros and I am 20 years old.
 
-I have more than 1 year of experience in the Full-Stack area with more aptitude in the Front-End and at the moment I am studying "System Analysis" at Faculdade Senac - Brasília (DF).
+I have more than 2 year of experience in the Full-Stack area with more aptitude in the Front-End and at the moment I am studying "Analysis and Systems Development" at Faculdade Senac - Brasília (DF).
  
 I am a very studious and focused person! Technology has always been my biggest passion ❤
 <br>
@@ -40,12 +40,9 @@ I am a very studious and focused person! Technology has always been my biggest p
   
 <hr>
   
-I've been working with computers since I was 16, so I have plenty of experience in how to act in a work environment.
-
-You can contact me via email or connect here 😁:
+You can contact me via email 😁:
+<br>
 EMAIL -> 📩 viniciusmedeiros779@gmail.com
- 
-  
   
   ##
  
