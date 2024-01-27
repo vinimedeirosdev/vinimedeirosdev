@@ -8,11 +8,15 @@
   
  ## ------------------------------------------- About Me --------------------------------------------
   
-My name is Vinícius Medeiros and I am 20 years old.
+👋 Hello, I'm Vinicius Medeiros, a 21-year-old student passionate about technology and system development! Currently, I work as a Vue and Node.js FullStack Developer while pursuing the 3rd semester of Analysis and Systems Development.
 
-I have more than 2 year of experience in the Full-Stack area with more aptitude in the Front-End and at the moment I am studying "Analysis and Systems Development" at Faculdade Senac - Brasília (DF).
- 
-I am a very studious and focused person! Technology has always been my biggest passion ❤
+💻 I have experience in various programming languages, including Vue, React, JavaScript, PHP, and Node.js.
+
+📚 My curiosity and passion for the technology field have led me to explore different tools and methodologies, with Git and Scrum being some of them. I thrive in teamwork, enjoy collaborating on challenging projects, and seek creative solutions to complex problems.
+
+📧 Feel free to reach out to me via email at viniciusmedeiros779@gmail.com. I'm always open to learning opportunities and partnerships on interesting projects.
+
+🔗 If you'd like to take a look at the projects I've worked on or currently working on, check out my GitHub: https://github.com/vinimedeirosdev. There, you'll find some of my works and get a better sense of my coding style.
 <br>
  
 ## Lately I have knowledge in the following technologies: 👩‍💻 
@@ -22,6 +26,7 @@ I am a very studious and focused person! Technology has always been my biggest p
   <img align="center" alt="Vini-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Vini-Vue" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Vini-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vini-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Vini-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -47,8 +52,7 @@ EMAIL -> 📩 viniciusmedeiros779@gmail.com
   ##
  
 <div> 
-  <a href="https://instagram.com/vini.strife" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:viniciusmedeiros779@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:viniciusmedeiros779@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-medeiros-360260224" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
