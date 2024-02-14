@@ -18,9 +18,8 @@
 
 📧 Feel free to reach out to me via email at viniciusmedeiros779@gmail.com. I'm always open to learning opportunities and partnerships on interesting projects.
 
-🔗 If you'd like to take a look at the projects I've worked on or currently working on, check out my GitHub: https://github.com/vinimedeirosdev. There, you'll find some of my works and get a better sense of my coding style.
 <br>
- 
+
 ## Lately I have knowledge in the following technologies: 👩‍💻 
 
 <div style="display: inline_block"><br>
