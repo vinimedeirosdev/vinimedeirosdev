@@ -1,15 +1,3 @@
-
-
-<div align="center">
-  <a href="https://github.com/vinimedeirosdev">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimedeirosdev&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
- <div align="center">
-   <h1>About Me</h1>
- </div>
-  
 👋 Hello, I'm Vinicius Medeiros, a 22-year-old student passionate about technology and system development! Currently, I work as a Vue and Node.js FullStack Developer while pursuing the 3rd semester of Analysis and Systems Development.
 
 💻 I have experience in various programming languages, including Vue, React, JavaScript, PHP, and Node.js.
